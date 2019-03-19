@@ -57184,7 +57184,7 @@
     e.exports = t.default
 }
 , function(e, t, n) {
-    e.exports = n.p + "static/media/logo.dbf2ec7d.png"
+    e.exports = n.p + "delta-dex/static/media/logo.dbf2ec7d.png"
 }
 , function(e, t, n) {
     "use strict";
@@ -60473,7 +60473,7 @@
         symbol: "",
         interval: "5",
         containerId: "tv_chart_container",
-        libraryPath: "/charting_library/",
+        libraryPath: "/delta-dex/charting_library/",
         chartsStorageUrl: "https://saveload.tradingview.com",
         chartsStorageApiVersion: "1.1",
         clientId: "tradingview.com",
