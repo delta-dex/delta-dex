@@ -25,5 +25,6 @@ Delta-dex is a web front end designed to interact with Amis project and AMIS sma
 
 - git clone https://github.com/delta-dex/delta-dex
 
-# delta-dex subscription
-EOS delta dex uses scatter to login
+# Delta-dex login and subscription
+
+EOS Delta-dex uses [ScatterDesktop](https://github.com/getscatter/ScatterDesktop) a multi-blockchain signature, identity, and reputation provider for Windows, Mac, Linux, Android, and iOS.
